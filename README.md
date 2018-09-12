@@ -23,11 +23,11 @@ Now start the AccessX86FromX64.exe application. Enter values for Value1 and Valu
 The application and JavaScript files were all developed in Visual Studio 2015.
 
 ## Authors
-[Eric Klebba] (klebba1@slb.com)
-[Albert Choi] (DChoi@slb.com)
+* [Eric Klebba] (klebba1@slb.com)
+* [Albert Choi] (DChoi@slb.com)
 
 ## License
-This solution does not contain any license. It is free to use and edit as the user wishes.
-Node.js has a license that can be accessed on their website https://nodejs.org/en/
-Express has a license that can be accessed on their website https://expressjs.com/
-Edge-Js has an Apache-2.0 license that can be refrenced on the website https://github.com/agracio/edge-js
+* This solution does not contain any license. It is free to use and edit as the user wishes.
+* Node.js has a license that can be accessed on their website https://nodejs.org/en/
+* Express has a license that can be accessed on their website https://expressjs.com/
+* Edge-Js has an Apache-2.0 license that can be refrenced on the website https://github.com/agracio/edge-js
