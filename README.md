@@ -9,10 +9,10 @@ Use a Node.js server to connect a 32 bit assembly to a 64 bit application
 * Edge-Js
 
 ### Steps
-Download the complete solution. Open it in Visual Studio 2015 or higher and Build the solution.
-Install a 32 bit version of Node.js on your machine from https://nodejs.org/en/download/
-Open a command prompt window and change the directory to the one containing the CalculatorService.js file.
-Type in the command "npm install express" and then "npm install edge-js" to install the necessary node modules.
+* Download the complete solution. Open it in Visual Studio 2015 or higher and Build the solution.
+* Install a 32 bit version of Node.js on your machine from https://nodejs.org/en/download/
+* Open a command prompt window and change the directory to the one containing the CalculatorService.js file.
+* Type in the command "npm install express" and then "npm install edge-js" to install the necessary node modules.
 
 ## Usage
 The solution contains a 64 bit application which sends get requests to a Node.js server which sends them to a 32 bit Calculator to complete the operation. The server must be runing before any commands are sent. To start the server, open a command prompt and change directories to the one containing the file CalculatorService.js. Type in the command "set PORT=45000" to set the port that the service will use then type in "node CalculatorService.js" to start the server.
