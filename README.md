@@ -24,7 +24,7 @@ The application and JavaScript files were all developed in Visual Studio 2015.
 
 ## Authors
 [Eric Klebba] (klebba1@slb.com)
-[Albert Choi] {DChoi@slb.com)
+[Albert Choi] (DChoi@slb.com)
 
 ## License
 This solution does not contain any license. It is free to use and edit as the user wishes.
