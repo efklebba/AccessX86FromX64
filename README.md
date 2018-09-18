@@ -30,4 +30,4 @@ The application and JavaScript files were all developed in Visual Studio 2015.
 * This solution does not contain any license. It is free to use and edit as the user wishes.
 * Node.js has a license that can be accessed on their website https://nodejs.org/en/
 * Express has a license that can be accessed on their website https://expressjs.com/
-* Edge-Js has an Apache-2.0 license that can be refrenced on the website https://github.com/agracio/edge-js
+* Edge-Js has an Apache-2.0 license that can be referenced on the website https://github.com/agracio/edge-js
