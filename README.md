@@ -23,8 +23,8 @@ Now start the AccessX86FromX64.exe application. Enter values for Value1 and Valu
 The application and JavaScript files were all developed in Visual Studio 2015.
 
 ## Authors
-* [Eric Klebba] (klebba1@slb.com)
-* [Albert Choi] (DChoi@slb.com)
+* [Eric Klebba] (efklebba@gmail.com)
+* [Albert Choi] (albert.choi288@gmail.com)
 
 ## License
 * This solution does not contain any license. It is free to use and edit as the user wishes.
